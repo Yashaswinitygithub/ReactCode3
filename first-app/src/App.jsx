@@ -8,6 +8,7 @@ function App() {
   return (
     <>
       <h1>Welcome to React</h1>
+      <h2>Thank you</h2>
       <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates omnis voluptatem, temporibus maxime aliquam non nesciunt ducimus itaque minus, sed mollitia
         dolore quae modi optio error dignissimos ea, minima sapiente.</p>
       <Home />
